@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/GANESHPORTFOLIO/static/css/main.c10b7387.css",
+    "main.js": "/GANESHPORTFOLIO/static/js/main.35ba29be.js",
+    "static/media/dp.jpeg": "/GANESHPORTFOLIO/static/media/dp.6eb8636110acbbb2b0e0.jpeg",
+    "static/media/logo.jpeg": "/GANESHPORTFOLIO/static/media/logo.e6314b9bfb1d403c1758.jpeg",
+    "static/media/universityLogo.png": "/GANESHPORTFOLIO/static/media/universityLogo.04d8d4ceab9ff4fca6f1.png",
+    "static/media/kindpng_2158189.png": "/GANESHPORTFOLIO/static/media/kindpng_2158189.84e4b1cbbc313949056f.png",
+    "static/media/project-cover10.png": "/GANESHPORTFOLIO/static/media/project-cover10.aee0f771fbfc1e7b8fa8.png",
+    "index.html": "/GANESHPORTFOLIO/index.html",
+    "main.c10b7387.css.map": "/GANESHPORTFOLIO/static/css/main.c10b7387.css.map",
+    "main.35ba29be.js.map": "/GANESHPORTFOLIO/static/js/main.35ba29be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10b7387.css",
+    "static/js/main.35ba29be.js"
+  ]
+}
